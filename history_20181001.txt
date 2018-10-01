@@ -1,0 +1,24 @@
+    1  sudo apt install ipython
+    2  sudo apt-get install ipython
+    3  sudo apt-get update
+    4  sudo apt-get install ipython
+    5  sudo apt-get install idel
+    6* sudo apt-get install id
+    7  history
+    8  ping
+    9  ping google.lv
+   10  nano test_1.py
+   11  ls -l
+   12  cat test_1.py
+   13  python
+   14  python test_1.py
+   15  idle test_1.py 
+   16  sudo apt install idle
+   17  ls -l
+   18  test_1.py
+   19  /home/ubuntu/test_1.py
+   20  chmod 746 test_1.py
+   21  ls -l
+   22  /home/ubuntu/test_1.py
+   23  ./test_1.py 
+   24  history > history_20181001.txt
