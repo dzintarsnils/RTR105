@@ -1,6 +1,10 @@
 # RTR105
 Datormācības kursa elektroniskā klade
 
+python
+ipython
+idle
+
 cd -- change directory
 . -- current directory
 ls -l -- parlukot visas mapes
@@ -13,3 +17,11 @@ history -- parada komandu vesturi
 echo -- attelo tekstu
 
 
+PYTHON
+vars() -- izprinte funkciju iespejas
+__doc__ -- dokumente funkciju
+print (..) -- izprinte tekstu
+type (..) -- izprinte datu tipu
+float -- peldosais tips (dalskaitli)
+string -- simboli (teksts)
+int -- veseli skaitli
