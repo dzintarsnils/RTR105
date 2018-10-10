@@ -25,3 +25,12 @@ type (..) -- izprinte datu tipu
 float -- peldosais tips (dalskaitli)
 string -- simboli (teksts)
 int -- veseli skaitli
+
+
+UZDEVUMS
+# This first line is provided for you
+
+hrs = (float(input("Enter Hours:")))
+rate = (float(input("Rate per hour")))
+grosspay = hrs*rate
+print("Pay:",grosspay)
