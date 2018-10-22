@@ -1,0 +1,8 @@
+    1  git clone https://github.com/dzintarsnils/RTR105
+    2  rm -rf RTR105
+    3  git clone https://github.com/dzintarsnils/RTR105
+    4  cd RTR105
+    5  idle
+    6  dgr_20181022.py
+    7  history_20181022.txt
+    8  history > history_20181022.txt
