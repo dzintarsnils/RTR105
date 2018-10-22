@@ -46,3 +46,20 @@ if h > 40 :
     print(40 * r + (h - 40) * r * 1.5)
 if h < 40 :
     print(h * r)
+
+
+
+funkcijas izveidošana izmantojot def, pēc kura ievada kādu parametru
+def print_lyrics():
+to var izmantot, cik grib
+agruments big=max('hello world') - iekavās ir arguments
+
+parametrs (lang)
+def greet(lang):
+if lang == 'es':
+ print('hola')
+elif lang == 'fr':
+ print('bonjour')
+else:
+ print('labdien')
+
