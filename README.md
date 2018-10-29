@@ -63,3 +63,22 @@ elif lang == 'fr':
 else:
  print('labdien')
 
++ - atstarpe
+
+IF vienmēr satur nosacījumu un : simbolu beigās
+
+ELIF vienmēr pieder kādam IF
+ELIF vienmēr satur nosacījumu un : simbolu beigās
+ELIF var nebūt/var būt viens/ var būt vairāki
+
+ELSE vienmēr pieder kādam IF
+ELSE nesatur nosacījumus un satur : simbolu beigās
+ELSE var nebūt/ var būt viens un vienmēr ir beigās
+
+WHILE+saliktais nosacījums:
+++++ vismaz viena darbība
+++++ CONTINUE (pārtrauc cikla soli,atgriežamies pie nosacījuma)
+++++ BREAK (pārtraucam cikla turpinājumu, atgriežamies pie nosacījuma)
+FOR (cikla mainīgais ir saraksts):
+++++ vismaz viena darbība
+++++ CONTINUE (aizies pie cikla nākamās elementa)
