@@ -1,0 +1,15 @@
+    1  rm -rf RTR105
+    2  git clone https://github.com/dzintarsnils/RTR105
+    3  cd RTR105
+    4  idle
+    5  nano teksts.txt
+    6  ipython
+    7  ls -l
+    8  nano teksts.txt
+    9  ls -l
+   10  nano teksts.txt
+   11  ls -l
+   12  ipython
+   13  idle
+   14  dgr_20181107.py
+   15  history > history_20181107.txt
