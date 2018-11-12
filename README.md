@@ -82,3 +82,7 @@ WHILE+saliktais nosacījums:
 FOR (cikla mainīgais ir saraksts):
 ++++ vismaz viena darbība
 ++++ CONTINUE (aizies pie cikla nākamās elementa)
+
+
+teilora rindas
+https://lv.wikipedia.org/wiki/Teilora_rinda
